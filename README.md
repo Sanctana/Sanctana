@@ -57,7 +57,7 @@
 </p> 
 
 ## 🐍 Commit Pathway
-![GitHub contribution snake](https://raw.githubusercontent.com/Sanctana/Sanctana/output/github-contribution-grid-snake.svg)
+![GitHub contribution snake](https://raw.githubusercontent.com/Sanctana/Sanctana/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://trophygh.kolioaris.xyz/?username=Sanctana&theme=matrix&no-bg=true&no-frame=true&row=1&column=8" width="100%">
