@@ -1,8 +1,8 @@
 ## 📌 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanctana&show_icons=true&theme=merko&border_color=599200" width="33.5%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanctana&theme=merko&layout=compact&border_color=599200&langs_count=6" width="25.6%" >
-  <img src="https://streak-stats.demolab.com?user=Sanctana&amp;theme=merko&amp;border=599200" width="35.5%">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanctana&show_icons=true&theme=merko&border_color=599200" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanctana&theme=merko&layout=compact&border_color=599200&langs_count=6" width="30.5%">
+  <img src="https://streak-stats.demolab.com?user=Sanctana&amp;theme=merko&amp;border=599200" >
 
 </p>
 
