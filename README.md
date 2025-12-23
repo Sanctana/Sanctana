@@ -23,7 +23,7 @@
 <!--
 <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises - Studio Ghibli.gif" alt="My GIF" align="left" width="380"> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2&pause=2&color=00E92C&repeat=false&width=435&lines=%F0%9F%8C%BF+About+Me%3A" alt="Typing SVG" alt="Typing SVG" align="middle" /></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—** I just **code** because the computer asks me to do so.. but I'm **curious**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to see where this path leads, **figuring things out** along the way. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍥⋆⭒˚｡⋆ -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to see where this path leads, **figuring things out** along the way. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍥⋆⭒˚｡⋆
 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**—**  INTJ-A, Intrapersonal (1st), & Visual (2nd) 🔖 
@@ -57,14 +57,16 @@
 </p> 
 
 ## 🐍 Commit Pathway
-<!-- ![Snake Dark Mode](https://raw.githubusercontent.com/Sanctana/Sanctana/snake/github-snake-dark.svg)  -->
+![GitHub contribution snake](https://raw.githubusercontent.com/Sanctana/Sanctana/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanctana&theme=matrix&no-bg=true&no-frame=true&row=1&column=8" width="100%">
+  <img src="https://trophygh.kolioaris.xyz/?username=Sanctana&theme=matrix&no-bg=true&no-frame=true&row=1&column=8" width="100%">
 </p>
+
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanctana&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%"> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanctana&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%"> 
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p>  
 
 <h2 align="center">✨🌿✧⋆｡ Socials & Counts ｡⋆˚🌿✨</h2>  
 <p align="center"> 
