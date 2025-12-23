@@ -1,11 +1,15 @@
 ## 📌 GitHub Overview
-<p align="left">
+
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanctana&show_icons=true&theme=merko&border_color=599200" width="40%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanctana&theme=merko&layout=compact&border_color=599200&langs_count=6" width="30.5%">
-  <img src="https://streak-stats.demolab.com?user=Sanctana&amp;theme=merko&amp;border=599200" >
-
 </p>
 
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Sanctana&amp;theme=merko&amp;border=5992000">
+
+</p>
 
 # :seedling: Hi, I'm Saint一切顺利! 
 <img src="https://github.com/Sanctana/Sanctana/raw/main/The wind rises - Studio Ghibli.gif" alt="My GIF" align="left" width="380"> <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2&pause=2&color=00E92C&repeat=false&width=435&lines=%F0%9F%8C%BF+About+Me%3A" alt="Typing SVG" alt="Typing SVG" align="middle" /></a><br>
@@ -55,6 +59,13 @@
   <img src="https://img.shields.io/badge/Hours%20Coding-I%20opened%20VS%20Code%20but%20stared%20at%20it%20for%201%20hour-palegreen" alt="Hours Coding" />
   <img src="https://img.shields.io/badge/Fun%20Fact-I%20have%2010%2B%20cats!-darkgreen">
 </p> 
+
+
+<p align="center">
+<img src="https://render.gitanimals.org/farms/Sanctana"/>
+</p> 
+<br>
+
 
 ## 🐍 Commit Pathway
 ![GitHub contribution snake](https://raw.githubusercontent.com/Sanctana/Sanctana/output/github-contribution-grid-snake-dark.svg)
